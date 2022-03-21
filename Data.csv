@@ -1,0 +1,8 @@
+Country,Age,Salary,Purchased
+Japan,33,60000,No
+Indonesia,55,40000,Yes
+Vietnam,70,55000,No
+Indonesia,45,65000,No
+Japan,78,,Yes
+Vietnam,76,40000,Yes
+Indonesia,,66000,No
